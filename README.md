@@ -7,3 +7,4 @@ The UK Food Standards Agency evaluates various establishments across the United 
 
 Starter_Code (15)/Starter_Code/NoSQL_setup_starter.ipynb
 #### Deliverable 2: A Jupyter notebook containing code that performs the exploratory analysis queries in the database.
+https://github.com/fahr-khadija/nosql-challenge/blob/main/Starter_Code%20(15)/Starter_Code/NoSQL_analysis_starter.ipynb
