@@ -5,6 +5,6 @@ The UK Food Standards Agency evaluates various establishments across the United 
 ## Deleverables
 #### Deliverable 1: A Jupyter notebook containing code that imports the data and sets up and updates the uk_food database.
 
-Starter_Code (15)/Starter_Code/NoSQL_setup_starter.ipynb
+[Starter_Code (15)/Starter_Code/NoSQL_setup_starter.ipynb](https://github.com/fahr-khadija/nosql-challenge/blob/85661a92abbd35bfc96505d54f248245f0092a77/Starter_Code%20(15)/Starter_Code/NoSQL_setup_starter.ipynb)
 #### Deliverable 2: A Jupyter notebook containing code that performs the exploratory analysis queries in the database.
 https://github.com/fahr-khadija/nosql-challenge/blob/main/Starter_Code%20(15)/Starter_Code/NoSQL_analysis_starter.ipynb
